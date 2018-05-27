@@ -1,2 +1,2 @@
 # SomeAlgorithmsCode
-record the process of learing algorithms
+record the process of learning algorithms
